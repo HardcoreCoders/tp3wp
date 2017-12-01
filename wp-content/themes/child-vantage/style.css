@@ -1,0 +1,41 @@
+/*
+ Theme Name:   Vantage Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Vantage Child
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     vantage
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+#theme-attribution {
+    display: none !important;
+}
+
+#masthead {
+    background-color: #252839;
+}
+
+#masthead .hgroup h1, #masthead .hgroup .support-text {
+    color: #fff;
+}
+
+p {
+    color :#000;
+}
+
+.site-navigation {
+    background-color: #677077;
+}
+
+#main {
+    background-color: #b5b5b7
+}
+
+#colophon {
+    background-color: #252839;
+}
